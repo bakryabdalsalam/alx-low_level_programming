@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - funcchan
- * Return 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
